@@ -1,0 +1,135 @@
+tutorial_sheet,tutorial_question,key_verbs,Blooms_level_T,,,,,,,Practical_question,Blooms_level_P
+DBMS_1,"Explain the advantages of using a database approach in comparison to the file- processing
+system?
+","Explain, Compare","Understanding, Applying, Analyzing, Evaluating",,,,,,,,
+DBMS_1,"
+Briefly explain each main step in the process of designing a DB for an application domain. ",Explain,"Understanding, Applying, Analyzing",,,,,,,,
+DBMS_1,"
+Consider the following requirements given in order to develop a database for the reservation
+system.",Consider,Evaluating,,,,,,,,
+DBMS_1,"
+Draw an ER diagram considering the scenario above.","Draw, Consider","
+Remembering, Evaluating,  Applying",,,,,,,,
+DBMS_1,"
+Consider the following requirements for a university database.",Consider,Evaluating,,,,,,,,
+DBMS_2,"
+Convert the following EER diagram to the relational model. ",Convert,Understanding,,,,,,,,
+DBMS_2,"
+State any assumptions that
+you make.",State,Remembering,,,,,,,,
+DBMS_3,"
+Consider the relation X(A,B,C,) is",Consider,Evaluating,,,,,,,,
+DBMS_3,Identify functional dependencies for Office relation.,Identify,"Remembering, Understanding",,,,,,,,
+DBMS_3,Write down the candidate key(s). ,Write,"Applying, Creating",,,,,,,,
+DBMS_3,Illustrate how you obtained the keys.,Illustrate,"Understanding, Applying, Analyzing",,,,,,,,
+DBMS_3,Is the schema in BCNF? State reasons if not.,State,Remembering,,,,,,,,
+DBMS_3,"If not, convert it to BCNF (ensure lossless join decomposition).",convert,Understanding,,,,,,,,
+DBMS_4,Consider the following schema and write relational algebra statements to cater the given queries,"Consider, write","
+Applying, Evaluating, Creating",,,,,,,,
+DBMS_4,Create the Employee table Department tables with following constraints,Create,Creating,,,,,,,,
+ICS_1,Draw a diagram showing the connection between the CPU and various devices and their access to memory.,Draw,Applying,,,,,,,,
+ICS_1,Describe in brief about the von Neumann Architecture with the aid of a diagram.,Describe,"Remembering, Understanding",,,,,,,,
+ICS_1,Explain in brief about the functions of each part listed in the von Neumann Architecture.,Explain,"Understanding, Applying, Analyzing",,,,,,,,
+ICS_1,What are the basic data types available to represent data in computers?,What are ,"
+Analyzing, Evaluating",,,,,,,,
+ICS_1,Give some examples for each data type you listed.,"Give examples, ",Understanding,,,,,,,,
+ICS_1,List down the different types of bits and bytes relationships,List,Remembering,,,,,,,,
+ICS_1,"If a PC consist with 32 BIT memory, what is the memory capacity of that PC?",what is,Remembering,,,,,,,,
+ICS_1,"If a PC consist with 512MB of main memory (RAM), how many bits are used to address the memory locations of that PC?", how many,"
+Remembering, Creating",,,,,,,,
+ICS_1,How many characters are possible in ASCII?, how many,"
+Remembering, Creating",,,,,,,,
+ICS_1,"If the ASCII code for the letter ""A"" is 65, what is the ASCII Code for the letter ""D""?",what is,Remembering,,,,,,,,
+ICS_1,What are other character codes available?,What are ,"
+Analyzing, Evaluating",,,,,,,,
+ICS_1,Explain how BCD works and limitation of it?,Explain,"Understanding, Applying, Analyzing",,,,,,,,
+ICS_1,Represent following numbers in BCD format?,Represent,Understanding,,,,,,,,
+ICS_1,What was the reason to select Unicode to represent characters?,What was,"
+Understanding,  Analyzing",,,,,,,,
+ICS_2,Write the Boolean expression for the output F in Sum-of-Product (SoP) form,write,"
+Applying, Creating",,,,,,,,
+ICS_2,Draw a circuit diagram for the simplified expression in part (c) using Basic Logic gates.,Draw,Applying,,,,,,,,
+ICS_2,Write down the truth table for the above-mentioned circuit,write,"
+Applying, Creating",,,,,,,,
+ISDM_1,Select the statement that DOES NOT explains the ?information Systems? in business:,Select,"
+Remembering, Understanding, Analyzing, Evaluating",,,,,,,,
+ISDM_2,Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business. ,Explain,"Understanding, Applying, Analyzing",,,,,,,,
+ISDM_2,Do you agree with this statement? ,Do you,"
+Understanding, Applying, Evaluating",,,,,,,,
+ISDM_2,State and explain TWO reasons to justify your answer.,"State, ","
+Remembering, Understanding, Applying, Analyzing",,,,,,,,
+ISDM_2,Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations. ,Explain,"Understanding, Applying, Analyzing",,,,,,,,
+ISDM_2,Do you agree with this statement?,Do you,"
+Understanding, Applying, Evaluating",,,,,,,,
+ISDM_2,Identify the direct and indirect users for the scenarios given below. ,Identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_3,Read the following case study related to ?SLIIT Library Management? and answer the questions given below.,Read,"Remembering,",,,,,,,,
+ISDM_3,Cleary identify the processes related to the case study.,identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_3,List down the activities need to be performed throughout the processes.,List,"Remembering,",,,,,,,,
+ISDM_3,Identify the actors who perform those activities in the processes. ,Identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_3,Model process diagrams with the appropriate BPMN notations. ,Model,Applying,,,,,,,,
+ISDM_5,What is a database?  Explain briefly,"What is, Explain","
+Remembering, Understanding, Applying, Analyzing",,,,,,,,
+ISDM_5,Give example situations in which databases are used.,Give example ,Understanding,,,,,,,,
+ISDM_5,What is a database management system (DBMS)?,What is,Remembering,,,,,,,,
+ISDM_5,Give example DBMS available,Give example ,Understanding,,,,,,,,
+ISDM_5,Compare and contrast different Data storage mechanisms ,Compare,"
+Understanding, Analyzing,  Evaluating",,,,,,,,
+ISDM_5,What is known as the ANSI/SPARC model? Give another name for the ANSI/SPARC model. ,What is,Remembering,,,,,,,,
+ISDM_5,Draw the Three Schema Architecture. Name the three schemas.,"Draw, Name","
+Remembering, Applying",,,,,,,,
+ISDM_5,Briefly explain the 3 schemas.,Explain,"Understanding, Applying, Analyzing",,,,,,,,
+ISDM_5,What is the advantage of having the three schema architecture?,What is,Remembering,,,,,,,,
+ISDM_5,What do you mean by logical data independence and physical data independence.,What do you,Evaluating,,,,,,,,
+ISDM_5,What are possible data required by an airline system? ,What are ,"
+Analyzing, Evaluating",,,,,,,,
+ISDM_5,Is it necessary for them to use a DBMS? ,Is,Evaluating,,,,,,,,
+ISDM_5,What type of data would they store in their database?,what,applying,,,,,,,,
+ISDM_5,In the three schema architecture which schema describes details about the type of file organization used to store the above data?,which,"
+Applying, Analyzing",,,,,,,,
+ISDM_5,What is the advantage of using a DBMS for a bank?,What is,Remembering,,,,,,,,
+ISDM_6,What is a data model? ,What is,Remembering,,,,,,,,
+ISDM_6,Name 2 types of Data Models and give some examples for each.,Name,Remembering,,,,,,,,
+ISDM_6,Consider the steps in the database design process,Consider,Evaluating,,,,,,,,
+ISDM_6,What are the goals of each step?,What are ,"
+Analyzing, Evaluating",,,,,,,,
+ISDM_6,In which step is the ER Model used?  ,which,"
+Applying, Analyzing",,,,,,,,
+ISDM_6,In which step is the Relational Data Model used? ,which,"
+Applying, Analyzing",,,,,,,,
+ISDM_7,Describe the following terms.,Describe,"
+Remembering, Understanding",,,,,,,,
+ISDM_7,What is the entity you should consider in order to answer the above query. ,"What is, consider","
+Remembering, Evaluating",,,,,,,,
+ISDM_7,Can you suggest a suitable primary key for the entity you named? Are there any multi valued attributes? ,Can you,"
+Remembering, Creating, Applying",,,,,,,,
+ISDM_7,Consider the entity STUDENT in the SLIIT student information system,Consider,Evaluating,,,,,,,,
+ISDM_7,List the attributes. ,List,Remembering,,,,,,,,
+ISDM_7,Identify a suitable primary key. ,Identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_7,Identify a possible composite key. ,Identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_7,Identify a possible candidate key. ,Identify,"
+Remembering, Understanding",,,,,,,,
+ISDM_7,Why is it not considered as the primary key? ,Why,Analyzing,,,,,,,,
+ISDM_7,Name some ER diagramming conventions.,Name,Remembering,,,,,,,,
+,"Consider the statement below, ",Consider,Evaluating,,,,,,,,
+,Identify entities and relationships. ,Identify,"
+Remembering, Understanding",,,,,,,,
+,Identify possible attributes for the entities,Identify,"
+Remembering, Understanding",,,,,,,,
+,Draw an ER diagram. ,Draw,Applying,,,,,,,,
+,Identify the entities on the above scenario,Identify,"
+Remembering, Understanding",,,,,,,,
+,Identify the relationships between entities. ,Identify,"
+Remembering, Understanding",,,,,,,,
+,Show some possible attributes for each entity and also    indicate the cardinalities. ,Show,"
+Understanding, Applying, Creating",,,,,,,,
+,Consider the following statement. ,Consider,Evaluating,,,,,,,,
+,Identify the entities. ,Identify,"
+Remembering, Understanding",,,,,,,,
+,Draw a suitable ER Diagram. ,Draw,Applying,,,,,,,,
+,Modify the ER diagram to illustrate the above scenario. ,"Modify, illustrate","Understanding, 
+Applying, Analyzing, Creating",,,,,,,,
