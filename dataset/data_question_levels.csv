@@ -1,0 +1,88 @@
+taxonomy,question
+Remember,Draw an ER diagram considering the scenario above.
+Remember,State any assumptions that you make
+Remember,Identify functional dependencies for Office relation.
+Remember,Is the schema in BCNF? State reasons if not
+Remember,Describe in brief about the von Neumann Architecture with the aid of a diagram
+Remember,List down the different types of bits and bytes relationships
+Remember,"If a PC consist with 32 BIT memory, what is the memory capacity of that PC"
+Remember,"If a PC consist with 512MB of main memory (RAM), how many bits are used to address the memory locations of that PC?"
+Remember,How many characters are possible in ASCII?
+Remember,"If the ASCII code for the letter ""A"" is 65, what is the ASCII Code for the letter ""D""?"
+Remember,Write down the truth table for the above-mentioned circuit
+Remember,State and explain TWO reasons to justify your answer
+Remember,Identify the direct and indirect users for the scenarios given below.
+Remember,Read the following case study related to “SLIIT Library Management” and answer the questions given below
+Remember,Cleary identify the processes related to the case study.
+Remember,List down the activities need to be performed throughout the processes.
+Remember,Identify the actors who perform those activities in the processes.
+Remember,What is a database?  Explain briefly
+Remember,What is a database management system (DBMS)?
+Remember,What is known as the ANSI/SPARC model? Give another name for the ANSI/SPARC model
+Remember,Draw the Three Schema Architecture. Name the three schemas.
+Remember,What is the advantage of having the three schema architecture?
+Remember,What is the advantage of using a DBMS for a bank?
+Remember,What is a data model?
+Remember,Name 2 types of Data Models and give some examples for each.
+Remember,Describe the following terms.
+Remember,What is the entity you should consider in order to answer the above query
+Remember,Can you suggest a suitable primary key for the entity you named?
+Remember,List the attributes.
+Remember,Identify a suitable primary key.
+Remember,Identify a suitable primary key.
+Remember,Identify a possible candidate key.
+Remember,Name some ER diagramming conventions.
+Understand,"Explain the advantages of using a database approach in comparison to the file- processing
+system?"
+Understand,"
+Briefly explain each main step in the process of designing a DB for an application domain."
+Understand,Convert the following EER diagram to the relational model
+Understand,Identify functional dependencies for Office relation
+Understand,Illustrate how you obtained the keys.
+Understand,"If not, convert it to BCNF (ensure lossless join decomposition)"
+Understand,Describe in brief about the von Neumann Architecture with the aid of a diagram.
+Understand,Explain in brief about the functions of each part listed in the von Neumann Architecture.
+Understand,Give some examples for each data type you listed.
+Understand,Explain how BCD works and limitation of it?
+Understand,Represent following numbers in BCD format?
+Understand,What was the reason to select Unicode to represent characters?
+Understand,Write down the truth table for the above-mentioned circuit
+Understand,Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business.
+Understand,Do you agree with this statement?
+Understand,State and explain TWO reasons to justify your answer.
+Understand,Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations.
+Understand,Identify the direct and indirect users for the scenarios given below.
+Understand,Cleary identify the processes related to the case study.
+Understand,Identify the actors who perform those activities in the processes.
+Understand,What is a database?  Explain briefly.
+Understand,Give example situations in which databases are used.
+Understand,Give example DBMS available
+Understand,Compare and contrast different Data storage mechanisms
+Understand,Briefly explain the 3 schemas.
+Understand,Describe the following terms.
+Understand,Identify a suitable primary key.
+Understand,Identify a possible composite key.
+Understand,Identify a possible candidate key.
+Apply,Draw an ER diagram considering the scenario above.
+Apply,Write down the candidate key(s).
+Apply,Illustrate how you obtained the keys.
+Apply,Consider the following schema and write relational algebra statements to cater the given queries
+Apply,Draw a diagram showing the connection between the CPU and various devices and their access to memory.
+Apply,Draw a diagram showing the connection between the CPU and various devices and their access to memory.
+Apply,Explain how BCD works and limitation of it?
+Apply,What was the reason to select Unicode to represent characters?
+Apply,Draw a circuit diagram for the simplified expression in part (c) using Basic Logic gates.
+Apply,Write down the truth table for the above-mentioned circuit
+Apply,Explain TWO instances where computer-based information systems (CBIS) are preferred over the manual information systems for a business.
+Apply,Do you agree with this statement?
+Apply,State and explain TWO reasons to justify your answer.
+Apply,Explain this statement using your knowledge and examples on need for information systems/ information technology in business organizations.
+Apply,Model process diagrams with the appropriate BPMN notations.
+Apply,What is a database?  Explain briefly
+Apply,Draw the Three Schema Architecture. Name the three schemas.
+Apply,Briefly explain the 3 schemas.
+Apply,What type of data would they store in their database?
+Apply,In the three schema architecture which schema describes details about the type of file organization used to store the above data?
+Apply,In which step is the ER Model used?  
+Apply,In which step is the Relational Data Model used?
+Apply,Can you suggest a suitable primary key for the entity you named?
